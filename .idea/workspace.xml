@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02270155-b028-4215-987a-82b5bb938038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_1_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/config/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userlist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/controllers/UserControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/services/ApiServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_8_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_8_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-rest-client-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-rest-client-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Billing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Billing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/ExpirationDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/ExpirationDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/api/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +26,8 @@
         <counts>
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="20" />
-          <entry key="properties" value="1" />
+          <entry key="java" value="22" />
+          <entry key="properties" value="2" />
           <entry key="xml" value="4" />
           <entry key="yml" value="1" />
         </counts>
@@ -64,8 +36,8 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="20" />
-          <entry key="Properties" value="1" />
+          <entry key="JAVA" value="22" />
+          <entry key="Properties" value="2" />
           <entry key="XML" value="4" />
           <entry key="YAML" value="1" />
         </counts>
@@ -73,14 +45,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="33" />
-          <entry key="java" value="1301" />
+          <entry key="java" value="1442" />
+          <entry key="properties" value="51" />
           <entry key="xml" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="33" />
-          <entry key="JAVA" value="1301" />
+          <entry key="JAVA" value="1442" />
+          <entry key="Properties" value="51" />
           <entry key="XML" value="22" />
         </counts>
       </usages-collector>
@@ -112,13 +86,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/controllers/UserControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="-78">
               <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#601#613#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,13 +197,14 @@
         <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/config/RestTemplateConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiService.java" />
         <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/domain/UserData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/services/ApiServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/userlist.html" />
         <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/controllers/UserController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/controllers/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -281,6 +278,36 @@
               <item name="SpringRestClient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="springrestclient" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-rest-client-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringRestClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="springrestclient" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-rest-client-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringRestClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="springrestclient" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-rest-client-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringRestClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -338,7 +365,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536510021194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536510863410" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -368,7 +395,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserControllerTest">
+  <component name="RunManager" selected="Spring Boot.SpringRestClientExamplesApplication">
     <configuration name="ApiServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-rest-client-examples" />
       <extension name="coverage">
@@ -446,7 +473,7 @@
       <option name="presentableId" value="Default" />
       <updated>1536426109322</updated>
       <workItem from="1536426117941" duration="3820000" />
-      <workItem from="1536480903368" duration="4698000" />
+      <workItem from="1536480903368" duration="6132000" />
     </task>
     <servers />
   </component>
@@ -460,15 +487,18 @@
     <history-entry file="ApiServiceImplTest - 2018.09.09 at 14h 36m 57s.xml">
       <configuration name="ApiServiceImplTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserControllerTest - 2018.09.09 at 18h 20m 38s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8518000" />
+    <option name="totallyTimeSpent" value="9952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -479,7 +509,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,9 +539,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-rest-client-examples.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -655,18 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/config/RestTemplateConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -685,18 +700,6 @@
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -768,10 +771,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/netherwulf/springframework/springrestclient/controllers/UserControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="-78">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netherwulf/springframework/springrestclient/services/ApiServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#601#613#1" expanded="true" />
           </folding>
         </state>
       </provider>
