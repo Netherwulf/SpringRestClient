@@ -1,4 +1,4 @@
-package netherwulf.springframework.domain;
+package netherwulf.springframework.api.domain;
 
 
 import java.io.Serializable;
